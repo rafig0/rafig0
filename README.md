@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rafig0
 - 🌱 Currently a student learning Computer Science and Engineering with specialization in AI/ML
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
